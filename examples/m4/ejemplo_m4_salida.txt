@@ -1,0 +1,41 @@
+=== Ayudante de producción artesanal ===
+Sugerencia: explorar_con_apoyos
+Motivo: 1 de 2 tareas esenciales cubiertas con competencia validada; hay coincidencia con sus preferencias. Quedan puntos por verificar antes de decidir.
+
+Coincidencias:
+  - «Manipular piezas pequeñas con precisión»: «destreza manual fina» (demostrada, validada). Evidencia: Realizó con precisión las tareas de montaje en el taller
+  - Preferencia de la persona: «producción artesanal» (interes)
+
+Pendiente de verificar:
+  - «Clasificar y ordenar piezas por tipo»: «clasificar y ordenar material» consta (inferida_ia) pero sin validar con la persona
+  - «Experiencia previa de 6 meses en producción»: el perfil no tiene datos para verificarlo
+  - «Desplazamiento diario al polígono industrial»: el perfil no tiene datos para verificarlo
+
+Barreras identificadas:
+  - «Experiencia previa de 6 meses en producción» es un requisito de empresa que podría dificultar el acceso; consultar con la entidad si admite alternativas o acreditación no formal
+
+Apoyos a explorar:
+  - demostración práctica y pictogramas (para: aprender tareas nuevas en el puesto)
+
+Calidad de los datos: Perfil: 1 de 3 entradas validadas; entrada más antigua de 46 días. Oferta publicada hace 10 días, fuente: dato sintético.
+
+=== Auxiliar administrativo con atención telefónica ===
+Sugerencia: no_priorizar_ahora
+Motivo: Choca con una preferencia expresada por la persona. Puede revisarse si ella lo decide.
+
+Coincidencias:
+  (ninguno)
+
+Pendiente de verificar:
+  - «Atender llamadas telefónicas de clientes»: la competencia «comunicación telefónica» no consta en el perfil
+  - «Uso básico de ofimática»: «uso básico de ordenador» consta (declarada) pero sin validar con la persona
+
+Barreras identificadas:
+  - La persona indica que evita «atención telefónica», presente en esta oportunidad
+
+Apoyos a explorar:
+  - demostración práctica y pictogramas (para: aprender tareas nuevas en el puesto)
+
+Calidad de los datos: Perfil: 1 de 3 entradas validadas; entrada más antigua de 46 días. Oferta publicada hace 8 días, fuente: dato sintético.
+
+Limitaciones: la coincidencia de preferencias es literal; una taxonomía de tareas la mejoraría. Las sugerencias son orientativas y requieren valoración profesional y de la persona.
