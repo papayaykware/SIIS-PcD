@@ -5,7 +5,7 @@ Solo datos sintéticos. Reglas explícitas y legibles, sin modelos predictivos.
 La salida nunca es «apto/no apto»: es una sugerencia argumentada para que la
 persona y el profesional decidan.
 
-Uso:  python ejemplo_m4.py
+Uso (desde la raíz del repositorio):  python examples/ejemplo_m4.py
 """
 import json
 import sqlite3
@@ -167,7 +167,7 @@ def imprimir(res):
 if __name__ == "__main__":
     con = sqlite3.connect(":memory:")
     con.row_factory = sqlite3.Row
-    con.executescript((Path(__file__).parent / "schema.sql").read_text(encoding="utf-8"))
+    con.executescript((Path(__file__).resolve().parent.parent / "src" / "db" / "schema.sql").read_text(encoding="utf-8"))
     cargar_datos(con)
     for id_op in ("O-001", "O-002"):
         imprimir(correspondencia(con, "P-001", id_op))
