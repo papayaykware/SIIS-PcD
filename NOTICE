@@ -1,0 +1,10 @@
+SIIS-PcD
+Sistema Inteligente de Itinerarios de Inserción Sociolaboral para Personas con Discapacidad
+
+Copyright 2026 Javi Ciborro
+
+Código (src/, examples/, tests/): licencia Apache-2.0 (archivo LICENSE).
+Documentación, diagramas y datos sintéticos (docs/, assets/, data/synthetic/): licencia CC BY 4.0 (archivo LICENSE-DOCS).
+
+Concepto, dirección y decisiones: Javi Ciborro.
+Redacción y desarrollo asistidos por Claude (Anthropic), declarado como coautor conceptual.

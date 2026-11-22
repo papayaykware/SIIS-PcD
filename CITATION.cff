@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Si utilizas este material, cítalo con los metadatos siguientes."
+title: "SIIS-PcD: Sistema Inteligente de Itinerarios de Inserción Sociolaboral para Personas con Discapacidad"
+type: software
+version: 0.2.0
+date-released: 2026-11-22
+authors:
+  - family-names: "Ciborro"
+    given-names: "Javi"
+  - name: "Claude (Anthropic)"
+repository-code: "https://github.com/papayaykware/SIIS-PcD"
+license: Apache-2.0
+abstract: >-
+  Propuesta de infraestructura digital de apoyo a la orientación, intermediación,
+  derivación y seguimiento sociolaboral de personas con discapacidad. La unidad
+  del sistema es la trayectoria de la persona, no la oferta de empleo. Prototipo
+  sin validar; solo datos sintéticos. La documentación se publica bajo CC BY 4.0.
+keywords:
+  - inserción sociolaboral
+  - empleo con apoyo
+  - discapacidad
+  - sistemas explicables
+  - accesibilidad cognitiva
+  - tecnología asistencial
